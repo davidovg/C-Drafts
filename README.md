@@ -1,2 +1,2 @@
 # C-Drafts
-teaching myself c#
+some useful c# or c++ scripts
